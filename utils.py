@@ -258,7 +258,7 @@ async def bypass_func(url):
 
 async def is_droplink_url(url):
     domain = urlparse(url).netloc
-    return url if "droplink.co" in domain else False
+    return url if "P-disk.com" in domain else False
 
 
 async def broadcast_admins(c: Client, Message, sender=False):
