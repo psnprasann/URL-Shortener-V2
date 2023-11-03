@@ -100,7 +100,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("Custom Alias", callback_data="alias_conf"),
-            InlineKeyboardButton("Admins", callback_data="admins_list"),
+            InlineKeyboardButton("Admins", callback_data="@Pdisk_Shortner_Support"),
         ],
         [
             InlineKeyboardButton("Channels", callback_data="channels_list"),
