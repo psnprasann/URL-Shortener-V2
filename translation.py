@@ -13,9 +13,17 @@ I'll handle the rest and get those links shortened or converted in a short time!
 
 START_MESSAGE = """Hi there {} 
 
-Send me a link or post and I'll shorten it for you!
+I Am P-disk.com, Bulk Link Converter. I Can Convert Links Directly From Your P-disk.com Account
+    
+1. Go To 👉 https://P-disk.com/member/tools/api  
+2. Than Copy API Key
+3. Than Type /shortener_api than give a single space and than paste your API Key (see example to understand more...)
 
-To learn more about what I can do, just type /help.
+/shortener_api(space)API Key 
+
+(See Example.👇)
+
+/shortener_api de303d5270f481aec928f39883da7b7f9a8812ac
 
 Method: {}
 Shortener website: {}
