@@ -15,7 +15,7 @@ START_MESSAGE = """Hi there {}
 
 I Am P-disk.com, Bulk Link Converter. I Can Convert Links Directly From Your P-disk.com Account
     
-1. Go To 👉 https://P-disk.com/member/tools/api  
+1. Go To 👉 https://YourShortner.com/member/tools/api  
 2. Than Copy API Key
 3. Than Type /shortener_api than give a single space and than paste your API Key (see example to understand more...)
 
